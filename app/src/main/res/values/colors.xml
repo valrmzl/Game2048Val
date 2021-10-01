@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mycolor">#51D0C6  </color>
+    <color name="lila">#671A99</color>
+    #BB7CE9
+    <color name="MORADO">#C26ED5  </color>
+
+    <color name="grid">#2E0B35 </color>
+    #8FCEDE
+    <color name="base">#D2EBF1   </color>
+
+    <color name="color2">#E1CAF1</color>
+    <color name="color4">#D3B0EA </color>
+    <color name="color8">#C496E2  </color>
+    <color name="color16">#B97FDF </color>
+    <color name="color32">#B06CDC  </color>
+    <color name="color64">#AD5FE1  </color>
+    <color name="color128">#A44BDF    </color>
+    <color name="color256">#9736D7   </color>
+    <color name="color512">#8C26D1    </color>
+    <color name="color1024">#7D0FC6   </color>
+    <color name="color20148">#7700C6    </color>
+
+
+
+</resources>
